@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Buxxx5
 - 👀 I’m a full stack and videogames developer
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Python | Unity Engine
 - 💞️ I’m looking to collaborate on GameJam Projects!
 - 📫 Contact me on:
   - Telegram: @Buxxx
